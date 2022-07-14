@@ -1,6 +1,6 @@
 # Tutplus
  Tutorial sacado de: https://code.tutsplus.com/series/create-a-simple-crm-in-wordpress--cms-641
- Crear un Post personalizado.
+ Crear un Post personalizado.<br>
  Primero creamos un plugin llamado Tuts + CRM, a partir de ahí y añadiendo código aparece el plugin contacto. Añadimos nuevos contactos ficticios y los publicamos.
  (Comentarios abajo).
  ![image](https://user-images.githubusercontent.com/91051075/151362507-3fd9c939-b4a6-42c1-9f52-5031b78031c1.png)
